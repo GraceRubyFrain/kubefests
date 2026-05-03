@@ -1,0 +1,5 @@
+# ha-namespace.yaml
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: home-assistant
